@@ -4,6 +4,7 @@ A hypothesis-driven strategy assessment. **Question:** should Kenya position its
 
 **Answer in one line.** Yes, but in sequence: Kenya's clean power is a real advantage, yet the grid has almost no spare evening capacity (3.3% reserve margin in June 2026). Secure evening supply first, pilot with firmed and flexible load, and scale only while the reserve margin stays at 10% or more.
 
+[`View Presentation`](https://samolart.github.io/kenya-green-industry-hub/deck/kenya_green_hub_deck.html)
 ## Headline findings
 
 | Finding | Result |
@@ -20,7 +21,7 @@ A hypothesis-driven strategy assessment. **Question:** should Kenya position its
 
 | File | What it is |
 |---|---|
-| [`deck/kenya_green_hub_deck.html`](deck/kenya_green_hub_deck.html) | 15-slide executive deck plus 2 appendix slides. One self-contained file; open in a browser, use the arrow keys. |
+| [`deck/kenya_green_hub_deck.html`](https://samolart.github.io/kenya-green-industry-hub/deck/kenya_green_hub_deck.html) | An interactive **executive presentation** showcasing the Kenya Green Industry Hub initiative. The deck contains 15 presentation slides plus 2 appendix slides and is delivered as a single self-contained HTML file. |
 | [`model/kenya_green_hub_model.xlsx`](model/kenya_green_hub_model.xlsx) | 11-sheet scenario model with live formulas, source register and integrity checks |
 | [`docs/executive_summary.md`](docs/executive_summary.md) | One-page executive summary |
 | [`docs/methods_appendix.md`](docs/methods_appendix.md) | Issue tree, hypotheses, calculations, scenarios, limits |
