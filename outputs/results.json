@@ -1,0 +1,1718 @@
+{
+ "years": [
+  2026,
+  2027,
+  2028,
+  2029,
+  2030,
+  2031,
+  2032
+ ],
+ "grid": {
+  "Stress": {
+   "peak": [
+    2514,
+    2715.12,
+    2932.3296,
+    3166.915968,
+    3420.26924544,
+    3693.8907850752,
+    3989.40204788122
+   ],
+   "baseline": [
+    2476.29,
+    2476.29,
+    2476.29,
+    2476.29,
+    2476.29,
+    2476.29,
+    2476.29
+   ],
+   "add_Ethiopia import uplift": [
+    0,
+    0,
+    100,
+    100,
+    100,
+    100,
+    100
+   ],
+   "add_Olkaria I rehabilitation": [
+    0,
+    0,
+    16,
+    16,
+    16,
+    16,
+    16
+   ],
+   "add_Battery storage (KenGen BESS)": [
+    0,
+    0,
+    100,
+    100,
+    100,
+    100,
+    100
+   ],
+   "add_Additional storage (auctions)": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "add_Olkaria VII geothermal": [
+    0,
+    0,
+    0,
+    0,
+    80.3,
+    80.3,
+    80.3
+   ],
+   "add_Seven Forks solar (evening-firm share only)": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "add_Auction-procured firm capacity (cumulative)": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "firm": [
+    2476.29,
+    2476.29,
+    2692.29,
+    2692.29,
+    2772.59,
+    2772.59,
+    2772.59
+   ],
+   "rm": [
+    -0.015,
+    -0.0879629629629631,
+    -0.0818596927166716,
+    -0.14987008584877,
+    -0.189364988239889,
+    -0.249412026148046,
+    -0.305011135322265
+   ],
+   "spare": [
+    -37.71,
+    -238.83,
+    -240.039600000001,
+    -474.625968000001,
+    -647.679245440001,
+    -921.300785075201,
+    -1216.81204788122
+   ],
+   "need": [
+    null,
+    201.12,
+    217.2096,
+    234.586368,
+    253.35327744,
+    273.6215396352,
+    295.511262806017
+   ]
+  },
+  "Base": {
+   "peak": [
+    2514,
+    2677.41,
+    2851.44165,
+    3036.78535725,
+    3234.17640547125,
+    3444.39787182688,
+    3668.28373349563
+   ],
+   "baseline": [
+    2597.9676,
+    2597.9676,
+    2597.9676,
+    2597.9676,
+    2597.9676,
+    2597.9676,
+    2597.9676
+   ],
+   "add_Ethiopia import uplift": [
+    0,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+   ],
+   "add_Olkaria I rehabilitation": [
+    0,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+   ],
+   "add_Battery storage (KenGen BESS)": [
+    0,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+   ],
+   "add_Additional storage (auctions)": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "add_Olkaria VII geothermal": [
+    0,
+    0,
+    0,
+    80.3,
+    80.3,
+    80.3,
+    80.3
+   ],
+   "add_Seven Forks solar (evening-firm share only)": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "add_Auction-procured firm capacity (cumulative)": [
+    0,
+    0,
+    0,
+    0,
+    150,
+    300,
+    450
+   ],
+   "firm": [
+    2597.9676,
+    2913.9676,
+    2913.9676,
+    2994.2676,
+    3144.2676,
+    3294.2676,
+    3444.2676
+   ],
+   "rm": [
+    0.0334000000000001,
+    0.0883531472579846,
+    0.0219278378009244,
+    -0.0140009095962256,
+    -0.0277995984755658,
+    -0.0435867972904224,
+    -0.0610683768679352
+   ],
+   "spare": [
+    83.9676000000004,
+    236.557600000001,
+    62.5259500000007,
+    -42.5177572499988,
+    -89.9088054712493,
+    -150.13027182688,
+    -224.016133495627
+   ],
+   "need": [
+    null,
+    163.41,
+    174.03165,
+    185.34370725,
+    197.39104822125,
+    210.221466355631,
+    223.885861668747
+   ]
+  },
+  "Favourable": {
+   "peak": [
+    2514,
+    2639.7,
+    2771.685,
+    2910.26925,
+    3055.7827125,
+    3208.571848125,
+    3369.00044053125
+   ],
+   "baseline": [
+    3035.1522,
+    3035.1522,
+    3035.1522,
+    3035.1522,
+    3035.1522,
+    3035.1522,
+    3035.1522
+   ],
+   "add_Ethiopia import uplift": [
+    0,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+   ],
+   "add_Olkaria I rehabilitation": [
+    0,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+   ],
+   "add_Battery storage (KenGen BESS)": [
+    0,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+   ],
+   "add_Additional storage (auctions)": [
+    0,
+    0,
+    0,
+    100,
+    100,
+    100,
+    100
+   ],
+   "add_Olkaria VII geothermal": [
+    0,
+    0,
+    80.3,
+    80.3,
+    80.3,
+    80.3,
+    80.3
+   ],
+   "add_Seven Forks solar (evening-firm share only)": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "add_Auction-procured firm capacity (cumulative)": [
+    0,
+    0,
+    0,
+    0,
+    300,
+    600,
+    900
+   ],
+   "firm": [
+    3035.1522,
+    3351.1522,
+    3431.4522,
+    3531.4522,
+    3831.4522,
+    4131.4522,
+    4431.4522
+   ],
+   "rm": [
+    0.2073,
+    0.269520096980717,
+    0.238038305218667,
+    0.21344518209097,
+    0.253836597846778,
+    0.28762963572541,
+    0.315361122155631
+   ],
+   "spare": [
+    521.1522,
+    711.4522,
+    659.7672,
+    621.182949999999,
+    775.669487499999,
+    922.880351874999,
+    1062.45175946875
+   ],
+   "need": [
+    null,
+    125.7,
+    131.985,
+    138.58425,
+    145.5134625,
+    152.789135625,
+    160.42859240625
+   ]
+  }
+ },
+ "hub": {
+  "Status quo": {
+   "it": [
+    45,
+    52.25,
+    59.5,
+    66.75,
+    74,
+    81.25,
+    88.5
+   ],
+   "incr": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "load": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "rev": [
+    60.75,
+    70.5375,
+    80.325,
+    90.1125,
+    99.9,
+    109.6875,
+    119.475
+   ],
+   "capex": [
+    0,
+    58,
+    116,
+    174,
+    232,
+    290,
+    348
+   ]
+  },
+  "Targeted hub": {
+   "it": [
+    45,
+    89.25,
+    133.5,
+    177.75,
+    222,
+    266.25,
+    310.5
+   ],
+   "incr": [
+    0,
+    37,
+    74,
+    111,
+    148,
+    185,
+    222
+   ],
+   "load": [
+    0,
+    38.85,
+    77.7,
+    116.55,
+    155.4,
+    194.25,
+    233.1
+   ],
+   "rev": [
+    60.75,
+    120.4875,
+    180.225,
+    239.9625,
+    299.7,
+    359.4375,
+    419.175
+   ],
+   "capex": [
+    0,
+    354,
+    708,
+    1062,
+    1416,
+    1770,
+    2124
+   ]
+  },
+  "Ambitious hub": {
+   "it": [
+    45,
+    126.25,
+    207.5,
+    288.75,
+    370,
+    451.25,
+    532.5
+   ],
+   "incr": [
+    0,
+    74,
+    148,
+    222,
+    296,
+    370,
+    444
+   ],
+   "load": [
+    0,
+    77.7,
+    155.4,
+    233.1,
+    310.8,
+    388.5,
+    466.2
+   ],
+   "rev": [
+    60.75,
+    170.4375,
+    280.125,
+    389.8125,
+    499.5,
+    609.1875,
+    718.875
+   ],
+   "capex": [
+    0,
+    650,
+    1300,
+    1950,
+    2600,
+    3250,
+    3900
+   ]
+  },
+  "_prize": {
+   "Kenya IT capacity in 2030": {
+    "Status quo": 74,
+    "Targeted hub": 222,
+    "Ambitious hub": 370
+   },
+   "Share of Africa capacity in 2030": {
+    "Status quo": 0.04,
+    "Targeted hub": 0.12,
+    "Ambitious hub": 0.2
+   },
+   "Infrastructure-fee revenue pool, 2030": {
+    "Status quo": 99.9,
+    "Targeted hub": 299.7,
+    "Ambitious hub": 499.5
+   },
+   "Build investment 2026-2030": {
+    "Status quo": 0.232,
+    "Targeted hub": 1.416,
+    "Ambitious hub": 2.6
+   },
+   "Campuses at average size": {
+    "Status quo": 2.11428571428571,
+    "Targeted hub": 6.34285714285714,
+    "Ambitious hub": 10.5714285714286
+   },
+   "Operational jobs (base jobs per campus)": {
+    "Status quo": 317.142857142857,
+    "Targeted hub": 951.428571428571,
+    "Ambitious hub": 1585.71428571429
+   },
+   "Hub load added to the grid, 2030": {
+    "Status quo": 0,
+    "Targeted hub": 155.4,
+    "Ambitious hub": 310.8
+   },
+   "Cost to firm 1 MW of evening peak with 4-hour storage": {
+    "Status quo": 188855.294117647,
+    "Targeted hub": 188855.294117647,
+    "Ambitious hub": 188855.294117647
+   },
+   "Hub-attributable firming cost, 2030": {
+    "Status quo": 0,
+    "Targeted hub": 29.3481127058823,
+    "Ambitious hub": 58.6962254117647
+   },
+   "Firming cost as % of infrastructure-fee revenue": {
+    "Status quo": 0,
+    "Targeted hub": 0.0979249673202614,
+    "Ambitious hub": 0.117509960784314
+   },
+   "Energy drawn by the whole data-centre estate, 2030": {
+    "Status quo": 0.680652,
+    "Targeted hub": 2.041956,
+    "Ambitious hub": 3.40326
+   },
+   "Cross-check: projected Kenya data-centre market in 2031 (S7)": {
+    "Status quo": 805,
+    "Targeted hub": 805,
+    "Ambitious hub": 805
+   },
+   "Top-down market / bottom-up fee pool (2031 vs 2030)": {
+    "Status quo": 8.05805805805806,
+    "Targeted hub": 2.68601935268602,
+    "Ambitious hub": 1.61161161161161
+   }
+  }
+ },
+ "matrix": {
+  "rm_by_year": {
+   "Stress|Status quo": [
+    -0.015,
+    -0.0879629629629631,
+    -0.0818596927166716,
+    -0.14987008584877,
+    -0.189364988239889,
+    -0.249412026148046,
+    -0.305011135322265
+   ],
+   "Stress|Targeted hub": [
+    -0.015,
+    -0.100828985065197,
+    -0.105560290835678,
+    -0.180046321101386,
+    -0.22459550655144,
+    -0.286911109123747,
+    -0.343377464697444
+   ],
+   "Stress|Ambitious hub": [
+    -0.015,
+    -0.113337057168024,
+    -0.128068079536498,
+    -0.20815371888277,
+    -0.256891304446152,
+    -0.320841598473056,
+    -0.377729435841682
+   ],
+   "Base|Status quo": [
+    0.0334000000000002,
+    0.0883531472579846,
+    0.0219278378009245,
+    -0.0140009095962256,
+    -0.0277995984755657,
+    -0.0435867972904223,
+    -0.0610683768679352
+   ],
+   "Base|Targeted hub": [
+    0.0334000000000002,
+    0.0727866993586772,
+    -0.00518037425742089,
+    -0.050444288104111,
+    -0.0723715226112875,
+    -0.0946451220227515,
+    -0.117167693495777
+   ],
+   "Base|Ambitious hub": [
+    0.0334000000000002,
+    0.0576592586139939,
+    -0.0308875760052078,
+    -0.0842897310264711,
+    -0.113035676303177,
+    -0.140528208639734,
+    -0.166941310689851
+   ],
+   "Favourable|Status quo": [
+    0.2073,
+    0.269520096980717,
+    0.238038305218667,
+    0.21344518209097,
+    0.253836597846778,
+    0.28762963572541,
+    0.31536112215563
+   ],
+   "Favourable|Targeted hub": [
+    0.2073,
+    0.251106830187975,
+    0.204278186345474,
+    0.166720543355868,
+    0.19315920115212,
+    0.214125330209833,
+    0.230241153227374
+   ],
+   "Favourable|Ambitious hub": [
+    0.2073,
+    0.233220063295797,
+    0.172310404378417,
+    0.123460821537272,
+    0.138083489163642,
+    0.148559821554176,
+    0.155468213125819
+   ]
+  },
+  "rm2030": {
+   "Stress": {
+    "Status quo": -0.189364988239889,
+    "Targeted hub": -0.22459550655144,
+    "Ambitious hub": -0.256891304446152
+   },
+   "Base": {
+    "Status quo": -0.0277995984755657,
+    "Targeted hub": -0.0723715226112875,
+    "Ambitious hub": -0.113035676303177
+   },
+   "Favourable": {
+    "Status quo": 0.253836597846778,
+    "Targeted hub": 0.19315920115212,
+    "Ambitious hub": 0.138083489163642
+   }
+  },
+  "gapmin": {
+   "Stress": {
+    "Status quo": 989.706169984001,
+    "Targeted hub": 1160.646169984,
+    "Ambitious hub": 1331.586169984
+   },
+   "Base": {
+    "Status quo": 413.326446018375,
+    "Targeted hub": 584.266446018375,
+    "Ambitious hub": 755.206446018375
+   },
+   "Favourable": {
+    "Status quo": 0,
+    "Targeted hub": 0,
+    "Ambitious hub": 0
+   }
+  },
+  "gaptgt": {
+   "Stress": {
+    "Status quo": 1160.719632256,
+    "Targeted hub": 1339.429632256,
+    "Ambitious hub": 1518.139632256
+   },
+   "Base": {
+    "Status quo": 575.035266291936,
+    "Targeted hub": 753.745266291936,
+    "Ambitious hub": 932.455266291936
+   },
+   "Favourable": {
+    "Status quo": 0,
+    "Targeted hub": 0,
+    "Ambitious hub": 40.1179193750004
+   }
+  },
+  "mwh": {
+   "Stress": {
+    "Status quo": 0,
+    "Targeted hub": 621.6,
+    "Ambitious hub": 1243.2
+   },
+   "Base": {
+    "Status quo": 0,
+    "Targeted hub": 621.6,
+    "Ambitious hub": 1243.2
+   },
+   "Favourable": {
+    "Status quo": 0,
+    "Targeted hub": 621.6,
+    "Ambitious hub": 1243.2
+   }
+  },
+  "connect_min": {
+   "Stress": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "Base": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "Favourable": [
+    233.551688311688,
+    387.430476190476,
+    331.254285714285,
+    285.849372294372,
+    407.005382034631,
+    521.232179274891,
+    628.18330339015
+   ]
+  },
+  "connect_tgt": {
+   "Stress": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "Base": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "Favourable": [
+    119.297888198758,
+    261.28132505176,
+    202.082360248447,
+    152.913095238095,
+    262.776050207039,
+    365.709792675982,
+    461.367862019927
+   ]
+  }
+ },
+ "unit": {
+  "tco": {
+   "Infrastructure fee": {
+    "Stress": 110,
+    "Base": 150,
+    "Favourable": 200,
+    "Ethiopia benchmark": 150
+   },
+   "Grid power (PUE x 730 h x all-in tariff)": {
+    "Stress": 112.42,
+    "Base": 91.98,
+    "Favourable": 66.43,
+    "Ethiopia benchmark": 66.43
+   },
+   "Evening self-supply premium (storage shifting cost, per IT kW)": {
+    "Stress": 22.0331176470588,
+    "Base": 22.0331176470588,
+    "Favourable": 22.0331176470588,
+    "Ethiopia benchmark": 22.0331176470588
+   },
+   "All-in tenant cost": {
+    "Stress": 244.453117647059,
+    "Base": 264.013117647059,
+    "Favourable": 288.463117647059,
+    "Ethiopia benchmark": 238.463117647059
+   },
+   "Power (grid + evening premium) as % of all-in cost": {
+    "Stress": 0.550015966011046,
+    "Base": 0.431846412266057,
+    "Favourable": 0.306670462306018,
+    "Ethiopia benchmark": 0.370971907605394
+   },
+   "Power-price gap to the Ethiopia-linked benchmark (grid power only)": {
+    "Stress": 45.99,
+    "Base": 25.55,
+    "Favourable": 0,
+    "Ethiopia benchmark": null
+   },
+   "  ...as % of the tenant's all-in cost": {
+    "Stress": 0.188134233846837,
+    "Base": 0.0967754944440149,
+    "Favourable": 0,
+    "Ethiopia benchmark": null
+   },
+   "Part 2. Reference campus cash flow (Base case, $m unless stated)": {
+    "Stress": "t=0",
+    "Base": "t=1",
+    "Favourable": "t=2",
+    "Ethiopia benchmark": "t=3"
+   }
+  },
+  "wacc": [
+   {
+    "rate": 0.08,
+    "npv": 23.0777954573072
+   },
+   {
+    "rate": 0.1,
+    "npv": -15.8372925014825
+   },
+   {
+    "rate": 0.12,
+    "npv": -47.6089327904792
+   },
+   {
+    "rate": 0.14,
+    "npv": -73.6372807484136
+   }
+  ],
+  "campus": {
+   "NPV at the base discount rate": -15.8372925014825,
+   "IRR (pre-tax, unlevered, incl. terminal value)": 0.0913616266517157,
+   "NPV with no terminal value": -116.232765068932,
+   "NPV change per +$1/kW-month of fee": 2.63126385112597,
+   "NPV change per +$1m/MW of build cost": -43.8958311725137,
+   "Break-even fee at Base build cost (NPV = 0)": 156.018891832039,
+   "Stabilised EBITDA yield on build cost (final year)": 0.11625
+  },
+  "sens": {
+   "capex": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11.3
+   ],
+   "rows": [
+    {
+     "fee": 110,
+     "npv": [
+      -33.2961842014938,
+      -77.1920153740076,
+      -121.087846546521,
+      -164.983677719035,
+      -208.879508891549,
+      -265.944089415817
+     ]
+    },
+    {
+     "fee": 130,
+     "npv": [
+      19.3290928210256,
+      -24.5667383514881,
+      -68.4625695240018,
+      -112.358400696516,
+      -156.254231869029,
+      -213.318812393297
+     ]
+    },
+    {
+     "fee": 150,
+     "npv": [
+      71.954369843545,
+      28.0585386710313,
+      -15.8372925014824,
+      -59.7331236739961,
+      -103.62895484651,
+      -160.693535370778
+     ]
+    },
+    {
+     "fee": 175,
+     "npv": [
+      137.735966121694,
+      93.8401349491806,
+      49.9443037766669,
+      6.04847260415323,
+      -37.8473585683605,
+      -94.9119390926284
+     ]
+    },
+    {
+     "fee": 200,
+     "npv": [
+      203.517562399844,
+      159.62173122733,
+      115.725900054816,
+      71.8300688823025,
+      27.9342377097888,
+      -29.1303428144791
+     ]
+    },
+    {
+     "fee": 225,
+     "npv": [
+      269.299158677993,
+      225.403327505479,
+      181.507496332966,
+      137.611665160452,
+      93.7158339879381,
+      36.6512534636702
+     ]
+    }
+   ],
+   "breakeven": [
+    122.654065150952,
+    139.336478491496,
+    156.018891832039,
+    172.701305172583,
+    189.383718513126,
+    211.070855855833
+   ]
+  },
+  "cashflow": {
+   "Calendar year": [
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035,
+    2036,
+    2037,
+    2038
+   ],
+   "Installed IT capacity": [
+    22,
+    22,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44
+   ],
+   "Contracted IT load (capped at installed)": [
+    8,
+    15,
+    22,
+    28,
+    33,
+    33,
+    33,
+    33,
+    33,
+    33,
+    33,
+    33
+   ],
+   "Infrastructure-fee revenue": [
+    14.4,
+    27,
+    39.6,
+    50.4,
+    59.4,
+    59.4,
+    59.4,
+    59.4,
+    59.4,
+    59.4,
+    59.4,
+    59.4
+   ],
+   "EBITDA": [
+    8.22,
+    18.3,
+    25.08,
+    33.72,
+    40.92,
+    40.92,
+    40.92,
+    40.92,
+    40.92,
+    40.92,
+    40.92,
+    40.92
+   ],
+   "Pre-tax unlevered cash flow": [
+    -167.78,
+    15.66,
+    -153.56,
+    28.44,
+    35.64,
+    35.64,
+    35.64,
+    35.64,
+    35.64,
+    35.64,
+    35.64,
+    322.08
+   ]
+  }
+ },
+ "levers": {
+  "levers": [
+   {
+    "name": "1. Data centres bring their own evening power (on-site storage)",
+    "mw": 155.4,
+    "lead": "Built with each campus (12-18 months)",
+    "evidence": "S2: evening peak 6-10pm; sized at the Targeted-hub load added in 2030. Cost borne by tenants.",
+    "tag": "[A]",
+    "cost": 29.3481127058823
+   },
+   {
+    "name": "2. Utility-scale 4-hour storage via auctions",
+    "mw": 250,
+    "lead": "24-30 months after financial close (S14)",
+    "evidence": "S13 first 100 MW in 2027; S14 BESS inside the auction framework.",
+    "tag": "[A]",
+    "cost": 47.2138235294118
+   },
+   {
+    "name": "3. Second Ethiopia import tranche",
+    "mw": 150,
+    "lead": "12-24 months (existing interconnector)",
+    "evidence": "S2 / S19: 200 MW now, 400 MW PPA cap, large Ethiopian hydro surplus. Priced at the 6.5 c/kWh PPA benchmark.",
+    "tag": "[A]",
+    "cost": 72.5985
+   },
+   {
+    "name": "4. Accelerated geothermal (Olkaria VII, wellhead units)",
+    "mw": 100,
+    "lead": "12-36 months (S13: wellhead units by 2027)",
+    "evidence": "S13: Olkaria VII 80.3 MW; mobile wellhead units. Priced at wholesale $0.07/kWh (S15).",
+    "tag": "[A]",
+    "cost": 55.188
+   },
+   {
+    "name": "5. Auction tranche pulled forward one year",
+    "mw": 150,
+    "lead": "Needs auction live by late 2026 (S14)",
+    "evidence": "S14: first COD c.2030; this lever brings one tranche to 2029. Priced at wholesale $0.07/kWh.",
+    "tag": "[A]",
+    "cost": 82.782
+   }
+  ],
+  "total_mw": 805.4,
+  "total_cost": 287.130436235294,
+  "Coverage of the 2030 gap": "Value",
+  "Gap to the minimum reserve margin (Base supply, Targeted hub, 2030)": 584.266446018375,
+  "Gap to the target reserve margin (Base supply, Targeted hub, 2030)": 753.745266291936,
+  "Package coverage of the minimum-margin gap": 1.37848066663522,
+  "Package coverage of the target-margin gap": 1.06853075703172,
+  "Reserve margin in 2030 after the package (Base supply, Targeted hub)": 0.165239288786848,
+  "Share of the package supplied by the data centres themselves (lever 1)": 0.192947603675192,
+  "Share of the target-margin gap attributable to the hub (hub load / gap)": 0.20617044902251
+ },
+ "screen": {
+  "criteria": [
+   "Fit with an evening-constrained grid (load flexibility)",
+   "Market pull evidence",
+   "Kenya's input advantage",
+   "Jobs per MW",
+   "Speed to deploy"
+  ],
+  "weights": [
+   0.3,
+   0.2,
+   0.2,
+   0.15,
+   0.15
+  ],
+  "rows": [
+   {
+    "industry": "Agro-processing and cold chain",
+    "scores": [
+     4,
+     4,
+     4,
+     5,
+     5
+    ],
+    "score": 4.3,
+    "rank": 1,
+    "rank_equal": 1
+   },
+   {
+    "industry": "Night-shift heavy industry (cement, steel recycling, glass)",
+    "scores": [
+     5,
+     4,
+     3,
+     4,
+     4
+    ],
+    "score": 4.1,
+    "rank": 2,
+    "rank_equal": 2
+   },
+   {
+    "industry": "Textiles and apparel in export zones",
+    "scores": [
+     3,
+     3,
+     3,
+     5,
+     4
+    ],
+    "score": 3.45,
+    "rank": 3,
+    "rank_equal": 3
+   },
+   {
+    "industry": "Flexible / batch compute (AI training, rendering)",
+    "scores": [
+     5,
+     3,
+     3,
+     1,
+     3
+    ],
+    "score": 3.3,
+    "rank": 4,
+    "rank_equal": 6
+   },
+   {
+    "industry": "EV and battery assembly, smart charging",
+    "scores": [
+     4,
+     3,
+     3,
+     3,
+     3
+    ],
+    "score": 3.3,
+    "rank": 5,
+    "rank_equal": 4
+   },
+   {
+    "industry": "Cloud and colocation data centres",
+    "scores": [
+     2,
+     5,
+     4,
+     2,
+     3
+    ],
+    "score": 3.15,
+    "rank": 6,
+    "rank_equal": 4
+   },
+   {
+    "industry": "Green hydrogen / ammonia (electrolysis)",
+    "scores": [
+     5,
+     2,
+     3,
+     2,
+     1
+    ],
+    "score": 2.95,
+    "rank": 7,
+    "rank_equal": 7
+   }
+  ]
+ },
+ "inputs": [
+  {
+   "id": "peak0",
+   "label": "Peak demand, June 2026",
+   "unit": "MW",
+   "stress": 2514,
+   "base": 2514,
+   "fav": 2514,
+   "tag": "[S]",
+   "source": "S2: Kenya Power peak demand 2,514 MW in June 2026 (2,549 MW in July 2026)."
+  },
+  {
+   "id": "rm0",
+   "label": "Reserve margin applied to the June 2026 peak",
+   "unit": "%",
+   "stress": -0.015,
+   "base": 0.0334,
+   "fav": 0.2073,
+   "tag": "[S]",
+   "source": "S3: -1.5% over the 12 months to Jun 2026 (Stress). S2: 3.34% in Jun 2026 (Base). S2: 20.73% in Jan 2026 - Favourable assumes January-level availability is restored and sustained. IEA comfortable range 20-35% (S1)."
+  },
+  {
+   "id": "growth",
+   "label": "Peak-demand growth per year (excluding the hub programme)",
+   "unit": "%/yr",
+   "stress": 0.08,
+   "base": 0.065,
+   "fav": 0.05,
+   "tag": "[S/A]",
+   "source": "S2: official projection c.5%/yr (Favourable). Observed: 6.4% FY24-FY25 and 8.5% FY25-Jun 2026 (S2 data) -> Base 6.5%, Stress 8%."
+  },
+  {
+   "id": "eth_mw",
+   "label": "Ethiopia import uplift (200 -> 400 MW)",
+   "unit": "MW",
+   "stress": 100,
+   "base": 200,
+   "fav": 200,
+   "tag": "[S/A]",
+   "source": "S2: Ethiopia imports of 200 MW 'expected to double'; S19: PPA allows up to 400 MW. Stress assumes only half the uplift is delivered."
+  },
+  {
+   "id": "eth_yr",
+   "label": "Ethiopia uplift: first year counted in annual peak",
+   "unit": "year",
+   "stress": 2028,
+   "base": 2027,
+   "fav": 2027,
+   "tag": "[A]",
+   "source": "S2 says 'from December' without a year; Base assumes Dec 2026 so 2027 is the first full peak year (conflict C3)."
+  },
+  {
+   "id": "olk1_mw",
+   "label": "Olkaria I rehabilitation (45 -> 61 MW)",
+   "unit": "MW",
+   "stress": 16,
+   "base": 16,
+   "fav": 16,
+   "tag": "[S]",
+   "source": "S13: +16 MW, late 2026."
+  },
+  {
+   "id": "olk1_yr",
+   "label": "Olkaria I: first year counted",
+   "unit": "year",
+   "stress": 2028,
+   "base": 2027,
+   "fav": 2027,
+   "tag": "[A]",
+   "source": "S13 says late 2026 -> first full peak year 2027."
+  },
+  {
+   "id": "bess_mw",
+   "label": "Battery storage (KenGen BESS), evening-firm MW",
+   "unit": "MW",
+   "stress": 100,
+   "base": 100,
+   "fav": 100,
+   "tag": "[S]",
+   "source": "S13: 100 MW battery system planned for 2027; counted at full rating for a 4-hour evening peak."
+  },
+  {
+   "id": "bess_yr",
+   "label": "BESS: first year counted",
+   "unit": "year",
+   "stress": 2028,
+   "base": 2027,
+   "fav": 2027,
+   "tag": "[S/A]",
+   "source": "S13: 2027. Stress delays one year."
+  },
+  {
+   "id": "bess2_mw",
+   "label": "Additional storage procured through auctions",
+   "unit": "MW",
+   "stress": 0,
+   "base": 0,
+   "fav": 100,
+   "tag": "[A]",
+   "source": "S14: BESS to be competitively sourced inside the auction framework. Only the Favourable case assumes an extra 100 MW."
+  },
+  {
+   "id": "bess2_yr",
+   "label": "Additional storage: first year counted",
+   "unit": "year",
+   "stress": 2029,
+   "base": 2029,
+   "fav": 2029,
+   "tag": "[A]",
+   "source": "Earliest realistic COD given S14 timelines (auction -> PPA -> financial close -> COD)."
+  },
+  {
+   "id": "olk7_mw",
+   "label": "Olkaria VII geothermal",
+   "unit": "MW",
+   "stress": 80.3,
+   "base": 80.3,
+   "fav": 80.3,
+   "tag": "[S]",
+   "source": "S13: 80.3 MW under development; commissioning date not stated."
+  },
+  {
+   "id": "olk7_yr",
+   "label": "Olkaria VII: first year counted",
+   "unit": "year",
+   "stress": 2030,
+   "base": 2029,
+   "fav": 2028,
+   "tag": "[A]",
+   "source": "S13 gives no date. Base assumes 2029."
+  },
+  {
+   "id": "solar_mw",
+   "label": "Seven Forks solar",
+   "unit": "MW",
+   "stress": 42.5,
+   "base": 42.5,
+   "fav": 42.5,
+   "tag": "[S]",
+   "source": "S13: 42.5 MW solar."
+  },
+  {
+   "id": "solar_firm",
+   "label": "Seven Forks: share counted at the evening peak",
+   "unit": "%",
+   "stress": 0,
+   "base": 0,
+   "fav": 0,
+   "tag": "[A]",
+   "source": "S2: solar output falls away as the 6-10pm peak arrives, so solar adds nothing to the evening reserve margin."
+  },
+  {
+   "id": "solar_yr",
+   "label": "Seven Forks: first year counted",
+   "unit": "year",
+   "stress": 2028,
+   "base": 2028,
+   "fav": 2028,
+   "tag": "[A]",
+   "source": "Date not stated in S13; irrelevant while the evening contribution is 0%."
+  },
+  {
+   "id": "auction_mw",
+   "label": "New auction-procured firm capacity, per year from the first COD year",
+   "unit": "MW/yr",
+   "stress": 0,
+   "base": 150,
+   "fav": 300,
+   "tag": "[A]",
+   "source": "S14: auctions operational within 12 months; financial close 9-12 months after PPA; COD 24-30 months after financial close -> first COD c.2030. Volume is an assumption: Stress none, Base 150 MW/yr, Favourable 300 MW/yr."
+  },
+  {
+   "id": "auction_yr",
+   "label": "First COD year of auction-procured capacity",
+   "unit": "year",
+   "stress": 2030,
+   "base": 2030,
+   "fav": 2030,
+   "tag": "[S/A]",
+   "source": "Derived from the S14 timeline."
+  },
+  {
+   "id": "africa2030",
+   "label": "Africa data-centre capacity in 2030 (midpoint of 1.5-2.2 GW)",
+   "unit": "MW",
+   "stress": 1850,
+   "base": 1850,
+   "fav": 1850,
+   "tag": "[S]",
+   "source": "S12: McKinsey range 1.5-2.2 GW by 2030; midpoint used."
+  },
+  {
+   "id": "share",
+   "label": "Kenya share of Africa data-centre capacity in 2030",
+   "unit": "%",
+   "stress": 0.04,
+   "base": 0.12,
+   "fav": 0.2,
+   "tag": "[S/A]",
+   "source": "Status quo = Kenya's current share (c.20 MW of >500 MW, S9/S11 = 4%). Targeted = announced pipeline delivered (c.220 MW, S9). Ambitious = 20%, comparable to a clear No.2 hub."
+  },
+  {
+   "id": "it2026",
+   "label": "Kenya data-centre IT capacity, 2026",
+   "unit": "MW",
+   "stress": 45,
+   "base": 45,
+   "fav": 45,
+   "tag": "[S]",
+   "source": "S9: almost 20 MW existing plus almost 25 MW expected by end-2025."
+  },
+  {
+   "id": "pue",
+   "label": "Power usage effectiveness (PUE)",
+   "unit": "x",
+   "stress": 1.4,
+   "base": 1.4,
+   "fav": 1.4,
+   "tag": "[A]",
+   "source": "Typical 1.3-1.5 for a temperate-altitude site such as Nairobi; grid MW = IT MW x PUE."
+  },
+  {
+   "id": "util",
+   "label": "Average IT utilisation (flat load at the evening peak)",
+   "unit": "%",
+   "stress": 0.75,
+   "base": 0.75,
+   "fav": 0.75,
+   "tag": "[A]",
+   "source": "Contracted-and-drawing share of installed IT capacity at maturity; data-centre load is near-flat so peak = average."
+  },
+  {
+   "id": "fee",
+   "label": "Colocation infrastructure fee (ex-power)",
+   "unit": "$/kW-month",
+   "stress": 110,
+   "base": 150,
+   "fav": 200,
+   "tag": "[A]",
+   "source": "No public Kenyan price (paywalled in S9). Range spans typical wholesale-to-retail colocation. Replace with operator quotes before relying on it."
+  },
+  {
+   "id": "capex",
+   "label": "Data-centre build cost",
+   "unit": "$m per IT MW",
+   "stress": 11.3,
+   "base": 8,
+   "fav": 7,
+   "tag": "[S]",
+   "source": "S21: JLL global average $11.3m/MW (Stress); emerging markets below $8m/MW (Base)."
+  },
+  {
+   "id": "campus_mw",
+   "label": "Average campus size",
+   "unit": "MW IT",
+   "stress": 35,
+   "base": 35,
+   "fav": 35,
+   "tag": "[A]",
+   "source": "Nxtra Tatu City is 44 MW (S10); smaller colocation sites pull the average down."
+  },
+  {
+   "id": "jobs",
+   "label": "Operational jobs per campus",
+   "unit": "jobs",
+   "stress": 100,
+   "base": 150,
+   "fav": 200,
+   "tag": "[S]",
+   "source": "S22: roughly 100-200 jobs at a typical treated US county; colocation is 'modest'."
+  },
+  {
+   "id": "tariff",
+   "label": "All-in grid tariff to a large data-centre customer",
+   "unit": "$/kWh",
+   "stress": 0.11,
+   "base": 0.09,
+   "fav": 0.065,
+   "tag": "[S/A]",
+   "source": "S18: KSh 7.99/kWh (2020); S16: April 2026 pass-throughs add c.KSh 4.7/kWh; S15: wholesale c.$0.07. At c.KSh 129/$ (S15 implied) the range is $0.065-0.11 (conflict C5)."
+  },
+  {
+   "id": "eth_price",
+   "label": "Benchmark: Ethiopia-to-Kenya wholesale price",
+   "unit": "$/kWh",
+   "stress": 0.065,
+   "base": 0.065,
+   "fav": 0.065,
+   "tag": "[S]",
+   "source": "S19: 6.5 US cents/kWh PPA price."
+  },
+  {
+   "id": "lcos",
+   "label": "Cost of shifting energy through a 4-hour battery (global benchmark)",
+   "unit": "$/MWh",
+   "stress": 78,
+   "base": 78,
+   "fav": 78,
+   "tag": "[S]",
+   "source": "S23: BNEF 2025 four-hour battery LCOE."
+  },
+  {
+   "id": "em_prem",
+   "label": "Emerging-market premium on storage cost",
+   "unit": "x",
+   "stress": 1.5,
+   "base": 1.5,
+   "fav": 1.5,
+   "tag": "[A]",
+   "source": "Financing, import and logistics premium over the global benchmark."
+  },
+  {
+   "id": "hours",
+   "label": "Evening peak hours to cover",
+   "unit": "hours/day",
+   "stress": 4,
+   "base": 4,
+   "fav": 4,
+   "tag": "[S]",
+   "source": "S2: evening peak c.6pm-10pm."
+  },
+  {
+   "id": "rte",
+   "label": "Battery round-trip efficiency",
+   "unit": "%",
+   "stress": 0.85,
+   "base": 0.85,
+   "fav": 0.85,
+   "tag": "[A]",
+   "source": "Typical lithium-ion utility-scale range 80-90%."
+  },
+  {
+   "id": "charge_price",
+   "label": "Energy price paid to recharge the battery",
+   "unit": "$/MWh",
+   "stress": 70,
+   "base": 70,
+   "fav": 70,
+   "tag": "[S]",
+   "source": "S15: wholesale c.$0.07/kWh."
+  },
+  {
+   "id": "min_rm",
+   "label": "Minimum reserve margin before connecting new hub load",
+   "unit": "%",
+   "stress": 0.1,
+   "base": 0.1,
+   "fav": 0.1,
+   "tag": "[A]",
+   "source": "Gate threshold. Below the IEA 20-35% comfortable range (S1) but well above the 3.3% of Jun 2026."
+  },
+  {
+   "id": "target_rm",
+   "label": "Target reserve margin to restore",
+   "unit": "%",
+   "stress": 0.15,
+   "base": 0.15,
+   "fav": 0.15,
+   "tag": "[A]",
+   "source": "Planning target; sensitivity on the Matrix sheet."
+  },
+  {
+   "id": "mw1",
+   "label": "Phase 1 IT capacity",
+   "unit": "MW",
+   "stress": 22,
+   "base": 22,
+   "fav": 22,
+   "tag": "[S]",
+   "source": "S10: two phases of 22 MW."
+  },
+  {
+   "id": "mw2",
+   "label": "Phase 2 IT capacity",
+   "unit": "MW",
+   "stress": 22,
+   "base": 22,
+   "fav": 22,
+   "tag": "[S]",
+   "source": "S10."
+  },
+  {
+   "id": "ph2_off",
+   "label": "Phase 2 starts this many years after phase 1",
+   "unit": "years",
+   "stress": 2,
+   "base": 2,
+   "fav": 2,
+   "tag": "[A]",
+   "source": "Typical lag between phases."
+  },
+  {
+   "id": "wacc",
+   "label": "Discount rate (USD, pre-tax, unlevered)",
+   "unit": "%",
+   "stress": 0.1,
+   "base": 0.1,
+   "fav": 0.1,
+   "tag": "[A]",
+   "source": "Hurdle for emerging-market digital infrastructure with some DFI participation. Sensitivity on UnitEconomics."
+  },
+  {
+   "id": "opex_pct",
+   "label": "Variable opex (staff, maintenance, insurance, connectivity)",
+   "unit": "% of revenue",
+   "stress": 0.2,
+   "base": 0.2,
+   "fav": 0.2,
+   "tag": "[A]",
+   "source": "Analyst assumption."
+  },
+  {
+   "id": "fixed_opex",
+   "label": "Fixed opex",
+   "unit": "$m per installed MW per year",
+   "stress": 0.15,
+   "base": 0.15,
+   "fav": 0.15,
+   "tag": "[A]",
+   "source": "Analyst assumption."
+  },
+  {
+   "id": "maint",
+   "label": "Maintenance capex",
+   "unit": "% of cumulative growth capex per year",
+   "stress": 0.015,
+   "base": 0.015,
+   "fav": 0.015,
+   "tag": "[A]",
+   "source": "Analyst assumption."
+  },
+  {
+   "id": "tv_mult",
+   "label": "Terminal value at end of horizon",
+   "unit": "x EBITDA",
+   "stress": 7,
+   "base": 7,
+   "fav": 7,
+   "tag": "[A]",
+   "source": "Conservative versus 15-20 year asset life; set to 0 to see the no-terminal-value case."
+  },
+  {
+   "id": "start_year",
+   "label": "Campus phase 1 first operating year",
+   "unit": "year",
+   "stress": 2027,
+   "base": 2027,
+   "fav": 2027,
+   "tag": "[S]",
+   "source": "S10: ready for service Q1 2027."
+  },
+  {
+   "id": "lv_storage",
+   "label": "Utility-scale 4-hour storage procured through auctions",
+   "unit": "MW",
+   "stress": 250,
+   "base": 250,
+   "fav": 250,
+   "tag": "[A]",
+   "source": "S14: BESS to be competitively sourced; S13: first 100 MW due 2027. Size is an assumption."
+  },
+  {
+   "id": "lv_import",
+   "label": "Second Ethiopia import tranche (beyond the 400 MW PPA cap)",
+   "unit": "MW",
+   "stress": 150,
+   "base": 150,
+   "fav": 150,
+   "tag": "[A]",
+   "source": "S2: Ethiopia has large hydro surplus; S19: current PPA caps at 400 MW. Size is an assumption."
+  },
+  {
+   "id": "lv_geo",
+   "label": "Accelerated geothermal (Olkaria VII pull-forward + mobile wellhead units)",
+   "unit": "MW",
+   "stress": 100,
+   "base": 100,
+   "fav": 100,
+   "tag": "[A]",
+   "source": "S13: wellhead units 'by 2027' (MW not stated); Olkaria VII 80.3 MW. Size is an assumption."
+  },
+  {
+   "id": "lv_auction",
+   "label": "Auction tranche pulled forward one year",
+   "unit": "MW",
+   "stress": 150,
+   "base": 150,
+   "fav": 150,
+   "tag": "[A]",
+   "source": "S14: first COD c.2030 on the stated timeline; pull-forward needs procurement and financial-close discipline."
+  },
+  {
+   "id": "lf_import",
+   "label": "Load factor of imported power",
+   "unit": "%",
+   "stress": 0.85,
+   "base": 0.85,
+   "fav": 0.85,
+   "tag": "[A]",
+   "source": "Analyst assumption for indicative energy cost."
+  },
+  {
+   "id": "lf_geo",
+   "label": "Load factor of geothermal / new firm generation",
+   "unit": "%",
+   "stress": 0.9,
+   "base": 0.9,
+   "fav": 0.9,
+   "tag": "[A]",
+   "source": "Geothermal runs near-baseload; analyst assumption."
+  }
+ ],
+ "checks_ok": true
+}
